@@ -1,0 +1,16 @@
+檔案 'z:\mysqlvcx\gdiplus.vcx' 不存在。
+pdffile
+Error:	1
+Method:initgdiplus
+Line:	0
+
+Date:2011/07/06 12:48:02
+------------------------------------------------------------
+無效的 OGDIPLUS 成員。
+pdffile
+Error:	1925
+Method:destroy
+Line:	0
+
+Date:2011/07/06 12:48:05
+------------------------------------------------------------
